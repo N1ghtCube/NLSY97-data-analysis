@@ -1,5 +1,3 @@
-# Based on the document, here's a clean README description:
-
 # BMI and Labor Market Earnings: A Gender-Based Analysis
 This project investigates whether Body Mass Index (BMI) affects individual earnings and whether this effect differs by gender, using data from the National Longitudinal Survey of Youth 1997 (NLSY97).
 # Overview
